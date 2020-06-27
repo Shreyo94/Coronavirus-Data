@@ -18,5 +18,6 @@ https://waikato.github.io/weka-wiki/downloading_weka/#windows_1
 
 The Vimeo video below describes how to analyse this data using Weka:
 
-https://vimeo.com/manage/433089942/general
+https://vimeo.com/433089942
+
 
