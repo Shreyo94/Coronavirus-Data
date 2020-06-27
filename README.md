@@ -5,11 +5,14 @@ You can join CSV data with first column being country using "join" command after
 
 $sort file1.csv > file1x.csv
 $sort file2.csv > file2x.csv
+
 $join -t"," file1x.csv file2x.csv > file3x.csv
 
 (If you are MS Windows/Mac user then try to add these Unix command-line utilities.) 
 
 Please install Weka from here:
+
+https://waikato.github.io/weka-wiki/downloading_weka/#windows_1
 
 
 The Vimeo video below describes how to analyse this data using Weka:
