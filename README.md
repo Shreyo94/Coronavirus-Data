@@ -4,6 +4,7 @@ You can try data analysis with current data as well.
 You can join CSV data with first column being country using "join" command after sorting it:
 
 $sort file1.csv > file1x.csv
+
 $sort file2.csv > file2x.csv
 
 $join -t"," file1x.csv file2x.csv > file3x.csv
@@ -16,5 +17,6 @@ https://waikato.github.io/weka-wiki/downloading_weka/#windows_1
 
 
 The Vimeo video below describes how to analyse this data using Weka:
+
 https://vimeo.com/manage/433089942/general
 
