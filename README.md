@@ -9,7 +9,8 @@ $sort file2.csv > file2x.csv
 
 $join -t"," file1x.csv file2x.csv > file3x.csv
 
-(If you are MS Windows/Mac user then try to add these Unix command-line utilities.) 
+(If you are MS Windows user then try to add Unix command-line utilities from here:
+https://sourceforge.net/projects/unxutils/files/unxutils/current/UnxUtils.zip).
 
 Please install Weka from here:
 
