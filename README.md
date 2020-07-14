@@ -25,4 +25,8 @@ https://vimeo.com/433089942
 Interesting new facts have arrived:
 https://www.nature.com/articles/s41419-020-2720-9
 
+We added [covid-9x.csv](https://github.com/Sukii/Coronavirus-data/blob/master/covid-9x.csv) file that has the BCG data as well.
+
+We will be studying this as well as other data reported in the above article.
+
 
