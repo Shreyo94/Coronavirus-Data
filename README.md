@@ -35,7 +35,7 @@ We also merged (using "join" command mentioned above) this with [covid-7x.csv](h
 
 We earlier added [covid-9x.csv](https://github.com/Sukii/Coronavirus-data/blob/master/covid-9x.csv) file that has the BCG data as well from another source.
 
-We also have added chloroquine usage data from Africa [chloroquine-africa.csv](https://github.com/Sukii/Coronavirus-data/blob/master/chloroquine-africa.csv)
+We also have added chloroquine usage data from Africa [chloroquine-africa.csv](https://github.com/Sukii/Coronavirus-data/blob/master/chloroquine-africa.csv) from the above [paper](https://www.nature.com/articles/s41419-020-2720-9/figures/4).
 
 We are now ready to plunge into this interesting (deadly) discussion about covid:
 [to be or not to be]()
