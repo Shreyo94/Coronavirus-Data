@@ -1,0 +1,41 @@
+Country,Total Population,Total Cases,Total Death,BCG
+China,1439323776,82295,3432,Yes
+India,1380004385,11555,396,Yes
+Indonesia,271523615,4839,459,Yes
+Pakistan,220892300,5988,107,Yes
+Japan,126476461,8100,146,Yes
+Turkey,84339067,65111,1403,Yes
+Iran,83992949,70877,4683,Yes
+Thailand,69799978,2643,43,Yes
+South Korea,51269185,10591,2225,Yes
+Poland,37846611,7202,263,Yes
+Saudi Arabia,30813871,5369,73,Yes
+Malaysia,32365999,4987,82,Yes
+Romania,19237691,6879,357,Yes
+Chile,19116201,7917,92,Yes
+Ecuador,17643054,7603,369,Yes
+Brazil,11589623,25684,1552,Yes
+Greece,10423054,2170,101,Yes
+Portugal,10196709,17448,567,Yes
+Singapore,5850342,3252,10,Yes
+Ireland,4937786,11079,406,Yes
+Qatar,2881053,3428,7,Yes
+Germany,83783942,132210,3495,Discontinued
+United Kingdom,67886011,93873,12107,Discontinued
+France,65273511,143303,15729,Discontinued
+Spain,46750778,170060,18255,Discontinued
+Australia,254998884,6440,63,Discontinued
+Czechia,10708981,6151,163,Discontinued
+Sweden,10099265,11445,1033,Discontinued
+Austria,9006398,14265,384,Discontinued
+Israel,8655535,12200,126,Discontinued
+Denmark,5792202,6511,299,Discontinued
+Finland,5540720,3161,64,Discontinued
+Norway,5021201,6623,139,Discontinued
+Canada,3742154,27063,903,Discontinued
+United States,331002651,614246,26064,No
+Italy,60461826,162488,21067,No
+Netherlands,17134872,27419,2945,No
+Belgium,11589623,31119,4157,No
+Switzerland,8650622,25936,1170,No
+Iceland,341203,1720,8,No
