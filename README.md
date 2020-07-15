@@ -22,8 +22,7 @@ The Vimeo video below describes how to analyse this data using Weka:
 I used "simplescreenrecorder" from recording this video.
 
 Interesting new facts (and for us more data):
-[BCG vaccination policy and preventive chloroquine usage: do they have an impact on COVID-19 pandemic?]
-(https://www.nature.com/articles/s41419-020-2720-9)
+[BCG vaccination policy and preventive chloroquine usage: do they have an impact on COVID-19 pandemic?](https://www.nature.com/articles/s41419-020-2720-9)
 
 Unfortunately the supplementary files in this article is in the form of images inside a MS Word DocX [file](https://static-content.springer.com/esm/art%3A10.1038%2Fs41419-020-2720-9/MediaObjects/41419_2020_2720_MOESM1_ESM.docx).
 So we extracted the images by unzipping the DocX file (which is actually a Zipped XML dataset) and OCRed the images first by cropping the tables (multiple tables have been merged into one image) and converting to image.pnm files using [gimp](https://www.gimp.org/). We use [gocr](http://jocr.sourceforge.net/):
