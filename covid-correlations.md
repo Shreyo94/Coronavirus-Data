@@ -1,4 +1,4 @@
-# Covid Correlations
+#Covid Correlations
 
 
 Based on data for 134 countries provided in [covid-7x.csv](https://github.com/Sukii/Coronavirus-data/blob/master/covid-7x.csv):
@@ -6,8 +6,7 @@ Based on data for 134 countries provided in [covid-7x.csv](https://github.com/Su
 Linear regression analysis results with CovidDeaths (per million):
 
 
-Parameter        |Correlation |10-fold            |CovidDeaths = ...
-                 |            | cross-validation  |
+Parameter        |Correlation |10-fold cross-validation |CovidDeaths = ...
 -----------------|------------|-------------------|---------------------------
 Over65percnt     |0.4655      |0.4355             |9.2845*Over65percnt-30.11
 HospitalBeds     |0.1283      |-0.072             |8.6634*HospitalBeds+29.1854
