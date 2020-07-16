@@ -19,7 +19,7 @@ The Vimeo video below describes how to analyse this data using Weka:
 
 [Video tutorial](https://vimeo.com/433089942).
 
-I used "simplescreenrecorder" from recording this video.
+We used "simplescreenrecorder" for recording this video.
 
 Interesting new facts (and for us more data):
 [BCG vaccination policy and preventive chloroquine usage: do they have an impact on COVID-19 pandemic?](https://www.nature.com/articles/s41419-020-2720-9)
