@@ -38,4 +38,5 @@ We earlier added [covid-9x.csv](https://github.com/Sukii/Coronavirus-data/blob/m
 We also have added chloroquine usage data from Africa [chloroquine-africa.csv](https://github.com/Sukii/Coronavirus-data/blob/master/chloroquine-africa.csv) from the above [paper](https://www.nature.com/articles/s41419-020-2720-9/figures/4).
 
 We are now ready to plunge into this interesting (deadly) discussion about covid:
-[to be or not to be](https://github.com/Sukii/Coronavirus-data/blob/master/covid-correlations.md)
+[to be or not to be](
+https://github.com/Sukii/Coronavirus-data/wiki)
