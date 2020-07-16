@@ -16,3 +16,13 @@ Latitude         |0.3407      |0.3064             |0.0656&ast;CovidDeaths+16.415
 All parameters   |0.4962      |0.4414             |9.5886&ast;Over65percnt-11.8037&ast;HospitalBeds+0.8925&ast;GINI+0.2832&ast;Obesity rate+0.7995&ast;Latitude-49.376
 
 
+**Linear regression analysis results of Covid deaths (per million) vs BCG vaccination**
+
+Parameter    |Correlation  |10-fold cross-validation    |CovidDeaths = 
+-------------|-------------|----------------------------|--------------
+BCG<sup>1</sup>  |0.5713       |0.3166                  |-82.4077&ast;BCG-Yes+81.5631&ast;BCG-No+104.5083
+BCG<sup>2</sup>  |0.3239       |0.1932                  |-138.2084&ast;BCG+160.5588
+
+<sup>1</sup>This is from [covid-bcg](https://github.com/Sukii/Coronavirus-data/blob/master/covid-bcg.csv); <sup>2</sup>This is from [covid-9x.csv](https://github.com/Sukii/Coronavirus-data/blob/master/covid-9x.csv). They are from two different sources.
+
+
