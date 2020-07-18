@@ -19,10 +19,12 @@ However, both these medicines and vaccines are first-line medicines in the preve
 Many simple medicines like Paracetamol, blood thinners like Turmeric (curcumin) and palliative herbal medicines like Andrographis paniculata that prevent hyper immune reaction (cytokines storm) is [effective](https://link.springer.com/article/10.1007/s11101-011-9219-z) in these cases. Cuba has also been quite effective in developing Interferon drugs against many diseases and there has been some recognition of it's [effectiveness](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31042-4/fulltext) even in US academic community. 
 
 ## Coronavirus (Covid) data and it's correlations
-[...](https://github.com/Sukii/Coronavirus-data/blob/master/covid-correlations.md)
+
+Although [correlations](https://github.com/Sukii/Coronavirus-data/blob/master/covid-correlations.md) are not causal relations, they are data that are usefull to understand underlying structures of societies and biological systems.
 
 ## Price's law and biological evolution of disease
-[...](https://github.com/Sukii/Coronavirus-data/wiki)
+
+There are also biological [evolutionary](https://github.com/Sukii/Coronavirus-data/wiki) aspects of diseases that are inter-linked to human societies that need to be understood, especially in the case of coronavirus disease.
 
 ## Conclusion
 
