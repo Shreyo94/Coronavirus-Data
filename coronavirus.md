@@ -20,11 +20,31 @@ Many simple medicines like Paracetamol, blood thinners like Turmeric (curcumin) 
 
 ## Coronavirus (Covid) data and it's correlations
 
-Although [correlations](https://github.com/Sukii/Coronavirus-data/blob/master/covid-correlations.md) are not causal relations, they are data that are usefull to understand underlying structures of societies and biological systems.
+Although [correlations](https://github.com/Sukii/Coronavirus-data/blob/master/covid-correlations.md) are not causal relations, they are data that are usefull to understand underlying structures of societies and biological systems. Here we consider correlation based on country-wise data on the following parameters:
+
+1. CovidDeaths (per million population)
+
+2. Over65percnt (% of people over age 65)
+
+3. Hospital beds (per million)
+
+4. GINI (index of inequality)
+
+5. Obessity (% people with high BMI values)
+
+6. Latitude from Equator (a measure of climate)
+
+7. Blood group (A+/-, B+/-,O+/-,AB+/-)
+
+8. BCG vaccination (Yes, Discontinued, No) for some limited set of countries
+
+We calculated direct correlation between CovidDeaths vs every other parameter individually and also colectively together. We will explain how these can be understood alone and together. Other than these parameters we have also studied other irrelevant paramters as placebo effect, to determine base-line levels that can occur due to certain intrinsic randomness associated with such data.
 
 ## Price's law and biological evolution of disease
 
-There are also biological [evolutionary](https://github.com/Sukii/Coronavirus-data/wiki) aspects of diseases that are inter-linked to human societies that need to be understood, especially in the case of coronavirus disease.
+There are also biological [evolutionary](https://github.com/Sukii/Coronavirus-data/wiki) aspects of diseases that are inter-linked to human societies that need to be understood, especially in the case of coronavirus disease. Humbeen studied recentlyans were exposed to aplethora of new diseases 10,000 years back, at the dawn of agriculture and cattle rearing societies. Human-cattle interaction produced newer diseases like Smallpox that ravaged through many socities for centuries and was only controlled effectively through vaccination programs in 1960s. However, unlike DNA viruses that have stable strctures which are amenable fixed vaccines, Coronavirus belongs to a group of common cold RNA-viruss that are not stable and so difficult to target. Unlike the strcuture of DNA, the structure of RNA has been studied comprehensively only very recetly by [Venkatraman Ramakrishnan](https://en.wikipedia.org/wiki/Venki_Ramakrishnan).  
+
+Despite media propoganada that it was created in a lab, it is clear that SARS-2 Cooronavirus is a further modification of SARS-1 that has been known to be transmitted from bats, pangolin or other such animals. The bats do not repond sevearly to these viruses and are known to have Interferon-like responses that keeps these viruses in check and their lack extereme reactions as in humans frees them from contracting covid-deisease. even in humans many individuals do nto respond severely to the disease and the reasons are not exactly known. It is also been noticed that certain blood groups are more susceptible to this diseases than others and the data also suggests that men (especially bald men) are more susceptible to this diseases than woman, which could be related to the [estrogen harmones](https://clinicaltrials.gov/ct2/show/NCT04359329).
 
 ## Conclusion
 
