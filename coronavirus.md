@@ -1,4 +1,4 @@
-#Coronavirus, its political economy, diagnosis and treatment
+# Coronavirus, its political economy, diagnosis and treatment
 
 Science is part of a democratic culture that emanated mainly in Europe after the social democratic revolutions of UK and Europe in 16th century that was inspired by the Islamic revolution in Arabia, which created Hospitals and medical sciences. Arab science in turn benefitted from its interactions with scientific discoveries of India. So science is no parochial property of one nation or race. It is a global intellectual property the entire world.
 
@@ -16,7 +16,7 @@ However, both these medicines and vaccines are first-line medicines in the preve
 Many simple medicines like Paracetamol, blood thinners like Turmeric (curcumin) and palliative herbal medicines like Andrographis paniculata that prevent hyper immune reaction (cytokines storm) is [effective](https://link.springer.com/article/10.1007/s11101-011-9219-z) in these cases. Cuba has also been quite effective in developing Interferon drugs against many diseases and there has been some recognition of it's [effectiveness](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31042-4/fulltext) even in US academic community. 
 
 
-##Conclusion
+## Conclusion
 
 In the era of fascism and nationalism with overtones of racism, doing science is like "Love in the time of Cholera". Despite this as middle-class wages it's war on Coronavirus (letting all the poor people to walk thousands of miles), this article is an attempt at fathoming the depths of the science behind Coronavirus and it's treatment.
 
