@@ -1,6 +1,6 @@
 # Coronavirus, its political economy, diagnosis and treatment
 
-Science is part of a democratic culture that emanated mainly in Europe after the social democratic revolutions of UK and Europe in 16th century that was inspired by the Islamic revolution in Arabia, which created Hospitals and medical sciences. Arab science in turn benefitted from its interactions with scientific discoveries of India. So science is no parochial property of one nation or race. It is a global intellectual property the entire world.
+Science is part of a democratic culture that emanated mainly in Europe after the social democratic revolutions of UK and Europe in 16th century that was inspired by the Islamic revolution in Arabia, which created Hospitals and medical sciences. Arab science in turn benefitted from its interactions with scientific discoveries of India. So science is no parochial property of one nation or race. It is a global intellectual property of the entire world.
 
 However, markets and its economies bring its own capitalist agenda, skewing the truth and scientific progress that has been achieved globally. With religious and fascist elements now on the ascendancy it is very important to bring certain aspects about Coronavirus, the disease, it's treatment etc., that needs to be discussed here.
 
