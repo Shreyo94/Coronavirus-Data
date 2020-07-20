@@ -1,6 +1,6 @@
 This repository contains Covid-deaths per million population, as CSV data files, country by country obtained on June 11th 2020 (which happened to be my son's 20th birthday).
 
-You can try the same data analysis with the updated current data as well, which is now available at many sources (e.g. https://covid19.who.int).
+You can try the same data analysis with the updated current data as well, which is now available at many sources (e.g. [WHO](https://covid19.who.int) or [OWID](https://github.com/owid/covid-19-data/tree/master/public/data)).
 
 You can join CSV data with first column being country using "join" command after sorting it:
 
