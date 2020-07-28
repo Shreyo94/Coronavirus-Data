@@ -30,12 +30,12 @@ So we extracted the images by unzipping the DocX file (which is actually a Zippe
 <code>$gocr image.pnm > data.csv</code>
 
 During the OCR some "o" inside the text became "0", some "1" inside numbers became "l" or "I" (these were easy to get rid-off using "sed" regular expressions), but some "4" became "0" inside the numbers (this had to be fixed manually, as there was no regexp pattern).
-Anyhow, we managed to get it into shape and here it is [covid-bcg.csv](https://github.com/Sukii/Coronavirus-data/blob/master/covid-bcg.csv).
-We also merged (using "join" command mentioned above) this with [covid-7x.csv](https://github.com/Sukii/Coronavirus-data/blob/master/covid-7x.csv) and produced [covid-7x-bcg.csv](https://github.com/Sukii/Coronavirus-data/blob/master/covid-7x-bcg.csv)
+Anyhow, we managed to get it into shape and here it is [covid-bcg.csv](https://github.com/Sukii/Coronavirus-data/blob/master/data/covid-bcg.csv).
+We also merged (using "join" command mentioned above) this with [covid-7x.csv](https://github.com/Sukii/Coronavirus-data/blob/master/data/covid-7x.csv) and produced [covid-7x-bcg.csv](https://github.com/Sukii/Coronavirus-data/blob/master/data/covid-7x-bcg.csv)
 
-We earlier added [covid-9x.csv](https://github.com/Sukii/Coronavirus-data/blob/master/covid-9x.csv) file that has the BCG data as well from another source.
+We earlier added [covid-9x.csv](https://github.com/Sukii/Coronavirus-data/blob/master/data/covid-9x.csv) file that has the BCG data as well from another source.
 
-We also have added chloroquine usage data from Africa [chloroquine-africa.csv](https://github.com/Sukii/Coronavirus-data/blob/master/chloroquine-africa.csv) from the above [paper](https://www.nature.com/articles/s41419-020-2720-9/figures/4).
+We also have added chloroquine usage data from Africa [chloroquine-africa.csv](https://github.com/Sukii/Coronavirus-data/blob/master/data/chloroquine-africa.csv) from the above [paper](https://www.nature.com/articles/s41419-020-2720-9/figures/4).
 
 We are now ready to plunge into this interesting (deadly) discussion about covid:
 [to be or not to be](

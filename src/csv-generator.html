@@ -6,11 +6,16 @@
 </head>
 <body>
   <h1>CSV Generator</h1>
-  Number of entries (rows): <input id="xcsv" type="number" min="10" max="100000" step="10" value="100" size="2"/>
-  Formula: <input id="ycsv" value="4*x" />
-  <input type="button" value="Calculate" onClick="calculate()" />
+  x ranges from <input id="x0" type="number" min="0" max="100000" step="10" value="1" size="2"/> to <input id="xn" type="number" min="10" max="100000" step="10" value="100" size="2"/>
   <br />
-  Output:<br />
-  <textarea id="ocsv" rows="20" cols="50"></textarea>
+  Formula: <input id="ycsv" size="50" value="4x+5random(),x^3+10random(),x(1+0.5sin(x*PI/180))+5random()" />
+  <br />
+  <br />
+  <input style="background-color: aqua;"  type="button" value="Calculate" onClick="calculate()" />
+  <br />
+  <br />
+  <textarea id="ocsv" rows="20" cols="80">Output:</textarea>
+  <br>
+  <input style="background-color: aqua;" type="button" onClick="saveCSV()" value="SaveCSV"/>
 </body>
 </html>
