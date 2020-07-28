@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>CSV Generator</title>
+    <script src="calculator.js"></script>
+</head>
+<body>
+  <h1>CSV Generator</h1>
+  Number of entries (rows): <input id="xcsv" type="number" min="10" max="100000" step="10" value="100" size="2"/>
+  Formula: <input id="ycsv" value="4*x" />
+  <input type="button" value="Calculate" onClick="calculate()" />
+  <br />
+  Output:<br />
+  <textarea id="ocsv" rows="20" cols="50"></textarea>
+</body>
+</html>
