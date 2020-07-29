@@ -19,7 +19,9 @@ The Vimeo video below describes how to analyse this data using Weka:
 
 [Video tutorial](https://vimeo.com/433089942).
 
-We used "simplescreenrecorder" for recording this video.
+To get a better perspective of these techniques you can look at non-linear regression modelling explained [here](https://github.com/Sukii/Coronavirus-data/blob/master/machine-learning.md)
+
+We used "simplescreenrecorder" for recording these videos.
 
 Interesting new facts (and for us more data):
 [BCG vaccination policy and preventive chloroquine usage: do they have an impact on COVID-19 pandemic?](https://www.nature.com/articles/s41419-020-2720-9)
