@@ -12,4 +12,4 @@ Uploaded a video describing non-linear regression methods using Weka [here](http
 
 If you are smart enough you can create your own CSV file using the [csv-generator.html](https://github.com/Sukii/Coronavirus-data/blob/master/src/csv-generator.html) + [calculator.js](https://github.com/Sukii/Coronavirus-data/blob/master/src/calculator.js).
 
-Hope to setup an IO endpoint that you can use for creating your own CSV files. 
+Hope to setup an IO endpoint that you can use for creating your own CSV files but it is down-right simple to just download the HTML and JS files and load it up the browser. 
