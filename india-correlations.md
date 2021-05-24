@@ -8,4 +8,4 @@
 
 Derived using linear correlation from the following [csv file](https://github.com/Sukii/Coronavirus-data/blob/master/covid-vax.csv) 
 
-[Source](https://www.thehindu.com/coronavirus/)
+[Source, Coronavirus India News Update, The Hindu](https://www.thehindu.com/coronavirus/)
